@@ -41,12 +41,6 @@ Creating detailed handwritten-style notes covering all topics from the "Docker I
 
 
 
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
 
 
 ## Acknowledgements
