@@ -40,7 +40,7 @@ Before understang the docker we need to uderstnd how the software industry worke
 #
 
 
-![App Screenshot]([https://www.netapp.com/media/Screen-Shot-2018-03-20-at-9.24.09-AM_tcm19-56643.png](https://k21academy.com/wp-content/uploads/2020/11/Docker-and-Vm-blog-image_result-1.webp))
+![App Screenshot](https://k21academy.com/wp-content/uploads/2020/11/Docker-and-Vm-blog-image_result-1.webp)
 
 
 #
