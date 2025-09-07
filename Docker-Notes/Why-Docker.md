@@ -53,7 +53,7 @@ A virtual machine (VM) is a software-based, virtual version of a physical comput
 
 ## Containers Vs VMs
 
-![App Screenshot](https://www.netapp.com/media/Screen-Shot-2018-03-20-at-9.24.09-AM_tcm19-56643.png)
+![App Screenshot](Image/docker-architecture.jpeg)
 
 
 
