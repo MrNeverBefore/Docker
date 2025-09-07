@@ -66,3 +66,6 @@ A virtual machine (VM) is a software-based, virtual version of a physical comput
 | Startup Time    | Slower (boots an entire OS)                          | Faster (just starts the application process)        |
 | Portability     | Less portable due to OS overhead                     | Highly portable; runs consistently across environments |
 | Resource Usage  | Fixed allocation of CPU/memory; less efficient       | Dynamic use of host resources; more efficient        |
+
+
+# [Home](README.md)
