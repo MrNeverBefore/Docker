@@ -1,4 +1,4 @@
-# [Home](READEME.md)
+# [Home](README.md)
 # Docker Compose
 
 -Docker Compose is a powerful tool designed to simplify the definition and management of multi-container Docker applications.
@@ -119,4 +119,4 @@ networks: # Defines custom networks for inter-service communication [2]
 - This top-level key defines custom networks. app-network in this example provides an isolated network for services to communicate securely with each other.
 
 
-# END
+# [Home](README.md)
