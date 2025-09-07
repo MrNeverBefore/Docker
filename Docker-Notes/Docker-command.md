@@ -1,4 +1,4 @@
-# [Home](READEME.md)
+# [Home](README.md)
 # Docker Commands
 
 - Docker provides a wide array of commands, from simple instructions within a Dockerfile to complex commands for managing containers, images, networks, and volumes via the Command Line Interface (CLI). 
