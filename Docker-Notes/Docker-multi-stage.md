@@ -1,4 +1,4 @@
-# [Home](READEME.md)
+# [Home](README.md)
 # Multi-stage Docker Builds
 
 Multi-stage Docker builds are a powerful feature that allows you to create more efficient and secure Docker images by separating the build environment from the runtime environment. This technique significantly reduces the final image size and enhances security by eliminating unnecessary tools and dependencies required only during the build process.
@@ -86,3 +86,4 @@ When running the `simple-calculator-multi-stage` container, it will prompt for i
 *   **Enhanced Security**: By using `scratch` as the final image, the container has minimal software, practically eliminating operating system-level vulnerabilities. This makes the application less exposed to potential threats.
 
 Multi-stage builds are considered the future of containers due to their ability to create smaller, faster, and more secure images, which is crucial for modern DevOps practices and cloud-native development.
+# [Home](README.md)
