@@ -20,11 +20,11 @@ Creating detailed handwritten-style notes covering all topics from the "Docker I
 
 - [Docker Vs Virtual Machines (VM)](Docker-vs-VM.md)
 
-- [Docker Introduction -  advantages & disadvatages](Docker-Introduction.md)
+- [Docker Introduction -  advantages & disadvatages](Docker-introduction.md)
 
 - [Docker Architecture and its Components](Docker-Architecture.d)
 
-- [Docker Workflow - how it works](Docker-workflow.md)
+- [Docker Workflow - how it works](Docker-Workflow.md)
 
 - [DockerFiles and how to write](Docker-file.md)
 
