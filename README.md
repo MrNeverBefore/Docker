@@ -26,7 +26,7 @@ Creating detailed handwritten-style notes covering all topics from the "Docker I
 
 - Detailed use of Dockerfiles and parsing key instructions.
 
-- Networking, volumes, Docker Compose usage.
+- [Networking, volumes, Docker Compose usage.](Docker-network.md)
 
 - Docker Registry and login, pushing and pulling images.
 
