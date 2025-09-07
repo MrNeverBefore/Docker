@@ -1,4 +1,4 @@
-# [Home](READEME.md)
+# [Home](README.md)
 # DockerFile
 
 
@@ -144,3 +144,5 @@ For this Dockerfile to function correctly, the following files and structure are
 
 
 ***This Dockerfile is a basic example that can be further optimised, for instance, by using multi-stage builds or distroless images to reduce the final image size and enhance security***
+
+# [Home](README.md)
