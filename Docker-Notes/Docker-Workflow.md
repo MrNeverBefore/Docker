@@ -8,7 +8,7 @@ The process of using Docker is typically broken down into three easy steps
 
 
 
-![App Screenshot](Image/docker-workflow.png)
+![App Screenshot](Image/Docker-workflow.png)
 
 Image Source -www.researchgate.ne
 
